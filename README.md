@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Arda24
-- 👀 I’m interested in  web coding
-- 🌱 I’m currently learning HTML, CSS and PHP
-- 💞️ I’m looking to collaborate on web development
+
 - 📫 How to reach me discord and Instagram;
 Arda24 - @_arda24
 
